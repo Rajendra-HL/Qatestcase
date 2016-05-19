@@ -1,0 +1,40 @@
+http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users      ---git commands learn very easy
+https://help.github.com/articles/using-pull-requests/       ---step by step pull request with screen shots
+https://help.github.com/articles/create-a-repo/    --create new repository in github
+
+For Clone:
+===========
+git branch [url]{https://github.com/homelane/HL-QA.git}
+cd dir(directory name: HL-QA)                           ---common directory
+mkdir newfoldername [Phoenix]                           --- Create a folder name
+git add -A                                              ---Add all changes in the working directory to the next commit, including new files and deletions: 
+git commit -m add dir(Phoenix)
+git push origin branch name(testcase)                   ---Updates the remote server with commits for the specific branch named
+
+
+https://github.com/homelane/HL-QA
+1.Branch: click on branch and select the branch name
+2. Click on New pull request
+3. Open a pull request:
+
+
+
+   a. Name of the text as: Testcases
+    and select the base as: master
+        compare: Testcases
+          click on create pull request button
+    or 
+    b. i.Enter a title and optional description in the discussion page. In this view, you can see the commits that are included once you send the pull request.
+        ii.Make any necessary customizations to the commit range and review the commits and file changes.
+            Pull Request send button
+        iii.Click the Create pull request button.
+
+optional
+4.   managing pull request:
+pull requests that you've sent or received   click on Pull requests in gith hub
+5. 
+
+
+4.
+
+
