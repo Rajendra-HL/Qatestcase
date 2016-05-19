@@ -1,0 +1,22 @@
+444800    pdc    666    yuuu    father
+
+New Requirement Working Fine
+=============================
+1. Filters in myleads
+2. Once the customer status is project reviewded signed off Latest Customer should be displayed in the Dash Board on Production Funnel( Production customers..new customers)
+3. Arifact folder structure change ---in designer funnel
+---> One Round of Testing is Completed and Working Fine
+
+
+New Issue:
+============
+#476 Ajax Error is Displayed when Production User Fill and Send a Collect Remaining Balance Amount   --->P0
+
+Production Funnel
+======================
+Process Manager   --- hltestblrdesigner5@homelane.com
+CSR               ---hltestblrdesigner6@homelane.com
+Planning Engineer ---hltestblrdesigner7@homelane.com
+OPS               ---hltestblrdesigner8@homelane.com
+
+Password: homelane
